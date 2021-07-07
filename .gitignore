@@ -1,0 +1,16 @@
+node_modules
+dist
+build
+.cache
+.env
+.terraform
+coverage
+getLangData.json
+src/assets/locales/en.json
+src/assets/locales/es.json
+src/assets/locales/pt-BR.json
+.npm
+.DS_Store
+.idea/
+.jscpd/
+debug.log
